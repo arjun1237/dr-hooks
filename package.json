@@ -1,0 +1,30 @@
+{
+  "name": "dr-hooks",
+  "version": "1.0.0",
+  "description": "useful everyday custom hooks for react developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun1237/dr-hooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "custom",
+    "react",
+    "usestate",
+    "state"
+  ],
+  "author": "Arjun K Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjun1237/dr-hooks/issues"
+  },
+  "homepage": "https://github.com/arjun1237/dr-hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
